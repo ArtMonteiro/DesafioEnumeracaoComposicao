@@ -1,0 +1,15 @@
+C:\Users\artur\source\repos\DesafioEnumeracaoComposicao\DesafioEnumeracaoComposicao\bin\Debug\net6.0\DesafioEnumeracaoComposicao.exe
+C:\Users\artur\source\repos\DesafioEnumeracaoComposicao\DesafioEnumeracaoComposicao\bin\Debug\net6.0\DesafioEnumeracaoComposicao.deps.json
+C:\Users\artur\source\repos\DesafioEnumeracaoComposicao\DesafioEnumeracaoComposicao\bin\Debug\net6.0\DesafioEnumeracaoComposicao.runtimeconfig.json
+C:\Users\artur\source\repos\DesafioEnumeracaoComposicao\DesafioEnumeracaoComposicao\bin\Debug\net6.0\DesafioEnumeracaoComposicao.dll
+C:\Users\artur\source\repos\DesafioEnumeracaoComposicao\DesafioEnumeracaoComposicao\bin\Debug\net6.0\DesafioEnumeracaoComposicao.pdb
+C:\Users\artur\source\repos\DesafioEnumeracaoComposicao\DesafioEnumeracaoComposicao\obj\Debug\net6.0\DesafioEnumeracaoComposicao.csproj.AssemblyReference.cache
+C:\Users\artur\source\repos\DesafioEnumeracaoComposicao\DesafioEnumeracaoComposicao\obj\Debug\net6.0\DesafioEnumeracaoComposicao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\artur\source\repos\DesafioEnumeracaoComposicao\DesafioEnumeracaoComposicao\obj\Debug\net6.0\DesafioEnumeracaoComposicao.AssemblyInfoInputs.cache
+C:\Users\artur\source\repos\DesafioEnumeracaoComposicao\DesafioEnumeracaoComposicao\obj\Debug\net6.0\DesafioEnumeracaoComposicao.AssemblyInfo.cs
+C:\Users\artur\source\repos\DesafioEnumeracaoComposicao\DesafioEnumeracaoComposicao\obj\Debug\net6.0\DesafioEnumeracaoComposicao.csproj.CoreCompileInputs.cache
+C:\Users\artur\source\repos\DesafioEnumeracaoComposicao\DesafioEnumeracaoComposicao\obj\Debug\net6.0\DesafioEnumeracaoComposicao.dll
+C:\Users\artur\source\repos\DesafioEnumeracaoComposicao\DesafioEnumeracaoComposicao\obj\Debug\net6.0\refint\DesafioEnumeracaoComposicao.dll
+C:\Users\artur\source\repos\DesafioEnumeracaoComposicao\DesafioEnumeracaoComposicao\obj\Debug\net6.0\DesafioEnumeracaoComposicao.pdb
+C:\Users\artur\source\repos\DesafioEnumeracaoComposicao\DesafioEnumeracaoComposicao\obj\Debug\net6.0\DesafioEnumeracaoComposicao.genruntimeconfig.cache
+C:\Users\artur\source\repos\DesafioEnumeracaoComposicao\DesafioEnumeracaoComposicao\obj\Debug\net6.0\ref\DesafioEnumeracaoComposicao.dll
